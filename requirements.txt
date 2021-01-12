@@ -5,7 +5,7 @@ pandas
 numpy
 matplotlib
 pytz
-gmaps
-
+psycopg2-binary==2.8.4
+SQLAlchemy
 
 
