@@ -2,7 +2,7 @@
 Repositório para o Teste Técnico de Engenharia de Dados
 
 
-### INSTRUÇÕES PARA EXECUTAR O PROGRAMA
+### INSTRUÇÕES PARA ACESSAR O *NOTEBOOK*
 
 Instância provisionada na AWS:
 - Acessar o endereço de IP; 
@@ -19,7 +19,10 @@ Executar o conteiner:
 `docker run --rm -d -p 8888:8888 -e URI=<POSTGRES_URI> -v $PWD:/home/jovyan/work data_sprints_challenge:latest`
 
 Acessar em: http://localhost:8888
-   
+
+---
+
+### INSTRUÇES PARA EXECUTAR O PROGRAMA
    
 - Clicar no programa **Solucao_desafio.ipynb**
 - **Resetar o kernel e apagar a memória**
