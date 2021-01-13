@@ -5,7 +5,8 @@ Repositório para o Teste Técnico de Engenharia de Dados
 ### INSTRUÇÕES PARA EXECUTAR O PROGRAMA
 
 - acessar o endereço de IP: 
-- utilizar a senha disponibilizada no email para efetuar o login
+   - utilizar a senha disponibilizada no email para efetuar o login
+- clicar no programa **Solucao_desafio.ipynb**
 - **Resetar o kernel e apagar a memória**
    - entrar em *kernel* -> *Restart & Clear Output*
 - Executar cada bloco de código na sequência
