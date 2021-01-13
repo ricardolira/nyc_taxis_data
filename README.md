@@ -10,10 +10,14 @@ Instância provisionada na AWS:
    
 Rodando localmente:
 
-Executar o commando do build do conteiner:
+Executar o commando do build do container:
+
 `Docker build -t jupyter_datasprints: latest .`
+
 Executar o conteiner:
+
 `docker run --rm -d -p 8888:8888 -e URI=<POSTGRES_URI> -v $PWD:/home/jovyan/work data_sprints_challenge:latest`
+
 Acessar em: http://localhost:8888
    
    
