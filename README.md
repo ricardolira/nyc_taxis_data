@@ -12,7 +12,7 @@ Rodando localmente:
 
 Executar o commando do build do container:
 
-`Docker build -t jupyter_datasprints: latest .`
+`Docker build -t data_sprints_challenge:latest .`
 
 Executar o conteiner:
 
